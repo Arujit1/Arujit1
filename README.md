@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=ARUN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Cloud%20Architect&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=ARUN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20|%20Software%20Engineer%20|%20Data%20Analyst&descAlignY=60"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 # 🤖 Welcome to My AI Universe
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;Full+Stack+Developer;Cloud+Engineer;Business+Intelligence+Developer;Machine+Learning+Enthusiast;Building+Next+Generation+AI+Products;Future+AI+Startup+Founder"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;Full+Stack+Developer;Software+Engineer;Data+Analyst;Busines+Intelligence+Developer;Machine+Learning+Enthusiast;Building+Next+Generation+AI+Products;Future+AI+Startup+Founder"/>
 
 </div>
 
